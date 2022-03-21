@@ -1,6 +1,6 @@
 # Amazon-MX-Bot
 Amazon MX Price Tracker
-#About
+# About
 Este proyecto lo realice como parte del proyecto final de mi curso de programación, realmente me gusto realizarlo y aprendi bastante 
 sobre temas que siempre quise desarrollar, como lo es la interfaz gráfica.
 
@@ -10,7 +10,7 @@ Si alguien requiere del uso de este programa o lo quiere modificar a su gusto me
 me lo pueden hacer llegar y estare infinitamente agradecido con ustedes.
 
 
-#Important
+# Important
 
 ***Rango de tiempo alto para evitar bloqueos por parte de Amazon (Recomiendo mantenerlo en media hora)
 
@@ -26,7 +26,7 @@ configuracion de tu correo.
 impremeltar el multi-threading y ese lag al obtener el precio desaparezca. Si sucede cuando el bot está trabajando, 
 no te asustes, es normal, en cuanto se obtengan los datos, se te volvera a permitie el manejo del programa.
 
-#Libraries
+# Libraries
 
 Instala esto para que el programa ejecute sin problemas---->  "requests_html" y "bs4"
 
